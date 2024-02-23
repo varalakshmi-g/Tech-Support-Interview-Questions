@@ -11,4 +11,6 @@ Q4: What do you mean by IP address?
 
 Q5: What do you know about Technical support?
 
+Q6: Does desktop and laptop will perform same tasks?
+
 
